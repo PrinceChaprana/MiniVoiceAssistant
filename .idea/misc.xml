@@ -3,11 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Apps/VoiceAssistant/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.295" />
+        <entry key="..\:/Apps/VoiceAssistant/app/src/main/res/drawable/ic_mic.xml" value="0.295" />
+        <entry key="..\:/Apps/VoiceAssistant/app/src/main/res/drawable/ic_user_24.xml" value="0.295" />
         <entry key="..\:/Apps/VoiceAssistant/app/src/main/res/drawable/msgboxleft.xml" value="0.1" />
         <entry key="..\:/Apps/VoiceAssistant/app/src/main/res/drawable/msgboxright.xml" value="0.1" />
         <entry key="..\:/Apps/VoiceAssistant/app/src/main/res/layout/activity_main.xml" value="0.2879999900124293" />
+        <entry key="..\:/Apps/VoiceAssistant/app/src/main/res/layout/activity_news_section.xml" value="0.2911458333333333" />
+        <entry key="..\:/Apps/VoiceAssistant/app/src/main/res/layout/adding_mails.xml" value="0.2911458333333333" />
         <entry key="..\:/Apps/VoiceAssistant/app/src/main/res/layout/left_msg.xml" value="0.1" />
         <entry key="..\:/Apps/VoiceAssistant/app/src/main/res/layout/right_msg.xml" value="0.1" />
+        <entry key="..\:/Apps/VoiceAssistant/app/src/main/res/layout/row_main_article_adapter.xml" value="0.1375" />
+        <entry key="..\:/Apps/VoiceAssistant/app/src/main/res/layout/settings.xml" value="0.2911458333333333" />
       </map>
     </option>
   </component>

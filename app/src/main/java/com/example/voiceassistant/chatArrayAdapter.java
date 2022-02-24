@@ -47,5 +47,6 @@ public class chatArrayAdapter  extends ArrayAdapter<ChatMessage> {
     public void add(ChatMessage object) {
         chatMessageList.add(object);
         super.add(object);
+        this.notifyDataSetChanged();
     }
 }
